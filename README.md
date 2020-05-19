@@ -1,5 +1,5 @@
 # Live-quiz-hack
-Moudules to install: (pip install <module>)
+Moudules to install: (pip install -module-)
 
 pytesseract
 
