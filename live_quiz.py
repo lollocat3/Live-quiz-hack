@@ -117,8 +117,8 @@ def google_ocr(num_lines):
     spinner.succeed('I processed the screenshot!')
     spinner.stop()
 
-    my_api_key = "AIzaSyBX7iqxZwrcw9sbh8D2QWkXJkLpJqpfvko"
-    my_cse_id = "008771381776651972713:vkzcb4pr-g4"
+    my_api_key = ""
+    my_cse_id = ""
 
     spinner = Halo(text='googling for answer...', spinner='bouncingBar', text_color='red')
     spinner.start()
